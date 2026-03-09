@@ -1,4 +1,7 @@
 # SoftI2C_VPORT_tinyAVR
+![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-tinyAVR-orange)
 
 Lightweight Software I2C library using VPORT for tinyAVR 0/1-series devices.
 
@@ -106,3 +109,4 @@ Select downloaded ZIP file
 License
 
 MIT License
+
